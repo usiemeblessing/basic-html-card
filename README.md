@@ -1,1 +1,1 @@
-This a Basic HTML Card
+This a Basic HTML Card from airtable.com/pricing
